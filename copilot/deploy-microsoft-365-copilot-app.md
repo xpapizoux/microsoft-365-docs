@@ -32,6 +32,6 @@ With this rollout, the Microsoft 365 Copilot app gains the ability to update aut
 
 ### Prevent automatic installation
 To prevent the app from installing to devices with existing installations of Microsoft 365 Apps:
-1. Sign in to the [Microsoft 365 Apps admin center](https://config.office.com/deploymentsettings) with an admin account.
+1. Sign in to the [Microsoft 365 Apps admin center](https://config.office.com/officeSettings) with an admin account.
 2. Go to **Customization** > **Device Configuration** > **Modern App Settings**.
 3. Select **Microsoft 365 Copilot app**, then clear the **Enable automatic installation of Microsoft 365 Copilot app** check box.
